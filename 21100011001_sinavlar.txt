@@ -1,0 +1,1 @@
+{'sinavID': 6804, 'OGRENCI NO.': '976', 'TURKCE(dogru)': 30, 'TURKCE(yanlis)': 2, 'TURKCE(net)': 29.5, 'MAT(dogru)': 35, 'MAT(yanlis)': 3, 'MAT(net)': 34.25, 'FEN(dogru)': 15, 'FEN(yanlis)': 5, 'FEN(net)': 13.75, 'SOSYAL(dogru)': 19, 'SOSYAL(yanlis)': 1, 'SOSYAL(net)': 18.75, 'PUAN:': 320.3125}

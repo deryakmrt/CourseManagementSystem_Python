@@ -1,0 +1,3 @@
+{'NUMARA': 976, 'ISIM': 'sami', 'SOYISIM': 'k', 'YAS': '15'}
+{'NUMARA': 600, 'ISIM': 'anja', 'SOYISIM': 'km', 'YAS': '23'}
+{'NUMARA': 711, 'ISIM': 'ayse', 'SOYISIM': 'bal', 'YAS': '12'}
